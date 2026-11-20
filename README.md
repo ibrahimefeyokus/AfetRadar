@@ -13,6 +13,18 @@ Türkiye'deki son depremleri anlık olarak takip etmeyi ve afet anında en yakı
 - **Ayarlar:** Koyu tema, konum izni ve toplanma alanı bilgileri
 - Bağlantı yoksa anlamlı uyarılar ve yükleniyor göstergeleri
 
+## Ekran Görüntüleri
+
+| Son Depremler | Deprem Detayı | Toplanma Alanları |
+|:---:|:---:|:---:|
+| <img src="docs/depremler.jpg" alt="Son depremler listesi" width="230"> | <img src="docs/deprem_detay.jpg" alt="Deprem detayı" width="230"> | <img src="docs/harita.jpg" alt="Toplanma alanları haritası" width="230"> |
+
+| Ailem | Ayarlar |
+|:---:|:---:|
+| <img src="docs/ailem.jpg" alt="Ailem sayfası" width="230"> | <img src="docs/ayarlar.jpg" alt="Ayarlar" width="230"> |
+
+> Ekran görüntülerinde kişisel bilgiler (telefon numarası, buluşma adresi ve kullanıcının konumu) gizlenmiştir.
+
 ## Kullanılan Teknolojiler
 
 - **Flutter / Dart**
