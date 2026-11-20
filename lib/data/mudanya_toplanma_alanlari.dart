@@ -1,0 +1,16 @@
+const List<Map<String, dynamic>> mudanyaToplanmaAlanlari = [
+  {'mahalle': 'Burgaz Mahallesi', 'ad': 'Atatürk Parkı', 'adres': 'Liman Sokak - Burgaz Mah. Mudanya', 'enlem': 40.351053, 'boylam': 28.927},
+  {'mahalle': 'Burgaz Mahallesi', 'ad': 'Güzelyalı Futbol Sahası', 'adres': 'Şahin Sokak - Burgaz Mah. Mudanya', 'enlem': 40.351054, 'boylam': 28.944324},
+  {'mahalle': 'Burgaz Mahallesi', 'ad': 'Kooperatifçi Süleyman Parkı', 'adres': 'Kerpiçlik Caddesi - Burgaz Mah. Mudanya', 'enlem': 40.352, 'boylam': 28.935},
+  {'mahalle': 'Eğitim Mahallesi', 'ad': 'Atatürk Parkı', 'adres': 'Kazım Karabekir Caddesi - Eğitim Mah. Güzelyalı Mudanya', 'enlem': 40.355024, 'boylam': 28.92893},
+  {'mahalle': 'Eğitim Mahallesi', 'ad': 'Güzelyalı İlkokulu (Eski İmam Hatip Lisesi)', 'adres': 'Lise Caddesi - Eğitim Mah. Güzelyalı Mudanya', 'enlem': 40.352717, 'boylam': 28.930389},
+  {'mahalle': 'Eğitim Mahallesi', 'ad': 'Şirinler Parkı', 'adres': 'Arabayolu Caddesi Destan Sokak - Eğitim Mah. Mudanya', 'enlem': 40.374594, 'boylam': 28.884945},
+  {'mahalle': 'Siteler Mahallesi', 'ad': 'Basket Sahası Spor Alanı', 'adres': '12. Cadde - Siteler Mah. Güzelyalı Mudanya', 'enlem': 40.35345, 'boylam': 28.912553},
+  {'mahalle': 'Yalı Mahallesi', 'ad': 'Duran Cami Yanı Park Alanı', 'adres': 'Gemlik Mudanya Yolu (Lambalar) - Yalı Mah. Mudanya', 'enlem': 40.362809, 'boylam': 28.907557},
+  {'mahalle': 'Yalı Mahallesi', 'ad': 'Dörtçelik ATL ve METEM', 'adres': 'Dörtçelik Caddesi Yunus Emre Sokak - Yalı Mah. Mudanya', 'enlem': 40.355559, 'boylam': 28.91943},
+  {'mahalle': 'Yalı Mahallesi', 'ad': 'Halit Selçuk Parkı', 'adres': 'Atatürk Caddesi - Yalı Mah. Mudanya', 'enlem': 40.357494, 'boylam': 28.917108},
+  {'mahalle': 'Çağrışan Mahallesi', 'ad': 'Toplanma Alanı', 'adres': '1. Karanfil Caddesi - Çağrışan Mah. Mudanya', 'enlem': 40.362, 'boylam': 28.87},
+  {'mahalle': 'Eğerce Mahallesi', 'ad': 'Toplanma Alanı', 'adres': 'Eğerce 3. Sokak - Eğerce Mah. Mudanya', 'enlem': 40.357, 'boylam': 28.833},
+  {'mahalle': 'Esence Mahallesi', 'ad': 'Toplanma Alanı', 'adres': 'Esence 5. Sokak - Esence Mah. Mudanya', 'enlem': 40.366, 'boylam': 28.677},
+  {'mahalle': 'Altıntaş Mahallesi', 'ad': 'Toplanma Alanı', 'adres': 'Garipler Sokak - Altıntaş Mah. Mudanya', 'enlem': 40.3554, 'boylam': 28.9735},
+];
